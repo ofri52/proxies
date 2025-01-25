@@ -10,8 +10,7 @@ const config = {
     ofriz: "ofrizur",
     guyz: "guyzur",
     idanz: "idanzur",
-    Sharonz:"Sharonzur",
-    benr: "benjaminrubin",
+    Sharonz:"Sharonzur"
   },
 };
 
