@@ -11,6 +11,7 @@ const config = {
     guyz: "guyzur",
     idanz: "idanzur",
     Sharonz:"Sharonzur",
+    benr: "benjaminrubin",
   },
 };
 
